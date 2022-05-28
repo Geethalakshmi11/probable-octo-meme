@@ -9,7 +9,7 @@ Wrote stuffs
 
 ## Skills
 Technical
-'Writing'
+''Writing''
 
 ## Education
 - Bachelor in Computer Science
