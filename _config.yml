@@ -3,5 +3,7 @@ description: Caran d'Arche is a pencil who's looking for an opportunity
 markdown: kramdown
 twitter_username: Geethalakshmi
 github_username: Geethalakshmi11
+
 author: geethalakshmi@gmail.com
-themem: minima
+
+theme: minima
