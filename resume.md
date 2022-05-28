@@ -1,4 +1,4 @@
-# **Background
+# Background
 
 ## About
 My professional areas of interest include drawing,sketching
@@ -9,6 +9,7 @@ Wrote stuffs
 
 ## Skills
 Technical
+'Writing'
 
 ## Education
 - Bachelor in Computer Science
