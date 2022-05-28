@@ -11,8 +11,8 @@ Wrote stuffs
 Technical
 
 ## Education
-_ Bachelor in Computer Science
-_ Masters in Computer science
+- Bachelor in Computer Science
+- Masters in Computer science
 
 ## Certificates
 
