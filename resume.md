@@ -9,13 +9,14 @@ Wrote stuffs
 
 ## Skills
 Technical
-''Writing''
+'Writing'
 
 ## Education
 - Bachelor in Computer Science
 - Masters in Computer science
 
 ## Certificates
+Intern
 
 ## Awards
 
