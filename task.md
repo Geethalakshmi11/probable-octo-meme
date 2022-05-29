@@ -1,7 +1,7 @@
 ---
 parent: Sending bottled messages
 ---
-
+{ % include 
 # Task example
 
 Some random procedures
