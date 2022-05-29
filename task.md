@@ -2,9 +2,9 @@
 parent: Sending bottled messages
 ---
 
-{% include snippet.md %}
-
 # Task example
+
+{% include snippet.md %}
 
 Some random procedures
 
