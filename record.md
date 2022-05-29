@@ -1,5 +1,5 @@
 {% for item in site.data.titanic %} 
 
-{{ item.Name }} was {{ item.Age }} yeras old.
+{{item.Name}} was {{item.Age}} years old.
 
 {% endfor %}
