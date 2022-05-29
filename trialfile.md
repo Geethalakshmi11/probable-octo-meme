@@ -1,5 +1,6 @@
-
-has__children: true
+---
+has_children: true
+---
 
 # Sending bottled messages
 
