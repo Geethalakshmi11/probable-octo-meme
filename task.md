@@ -1,7 +1,7 @@
 ---
 parent: Sending bottled messages
 ---
-{ % include 
+{ % include Create snippet.md }
 # Task example
 
 Some random procedures
