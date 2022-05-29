@@ -1,5 +1,5 @@
-{% for item in list %} 
+{% for item in site.data.titanic %} 
 
-keep doing something till the last item 
+{{ item.Name }} was {{ item.age }} yeras old.
 
 {% endfor %}
